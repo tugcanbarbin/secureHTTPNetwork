@@ -13,7 +13,7 @@ The Server module:
 
 - collects files from anonymous clients in encrypted way and acknowledge them by 
 returning a digital signature (first step of the project);
- distributes the files received from clients to the other servers in a secure and 
+- distributes the files received from clients to the other servers in a secure and 
 authenticated way in order to replicate the file system in a distributed manner (second 
 step of the project);
 -  sends the requested files to clients in an authenticated way via digital signatures 
